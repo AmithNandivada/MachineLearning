@@ -56,4 +56,4 @@ hclust_results <- hclust(as.dist(1 - similarity_matrix), method = "ward.D2")
 
 # plot the dendogram
 plot(hclust_results, main = "Hierarchical Clustering using Cosine Similarity")
-rect.hclust(hclust_results, k=4)
+rect.hclust(hclust_results, k=2)
