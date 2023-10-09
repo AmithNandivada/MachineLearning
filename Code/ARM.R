@@ -25,7 +25,12 @@ inspect(property_rules)
 
 
 # Find which terms are more frequent.
-itemFrequencyPlot(property_details, topN=20, type="absolute", cex.names = 0.6)
+itemFrequencyPlot(property_details, topN=30, type="absolute", cex.names = 0.6)
+
+# Print the item frequencies
+item_frequencies <- itemFrequency(property_details)
+item_frequencies_df <- as.data.frame(item_frequencies)
+print(item_frequencies_df)
 
 
 # Sorting the rules with lift, support, confidence
