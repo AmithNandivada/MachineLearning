@@ -1,0 +1,66 @@
+Credit_Card_Approval,Previous_Items_Purchased,Credit_History,Spending_History_on_Amazon,Annual_Income,Credit_Inquiries
+Yes,"Phone, Laptop, Cooker",Good,500,75000,2
+No,"Clothes, Makeup",Fair,300,45000,1
+Yes,Books,Excellent,700,100000,0
+Yes,"Smartwatch, Camera, Shoes",Good,600,85000,3
+No,"Furniture, Books",Poor,150,60000,1
+No,"Jewelry, Skincare, Headphones",Fair,400,50000,2
+Yes,"Books, Clothing, Tablet",Excellent,900,120000,1
+Yes,"Laptop, Cookware",Good,800,90000,4
+No,"Perfume, Handbags, Books",Fair,200,40000,2
+Yes,"Appliances, Smartphone",Good,750,110000,0
+Yes,"Shoes, Makeup, Smart Home",Excellent,1000,130000,1
+Yes,"Books, Clothing, Haircare",Good,500,95000,2
+No,"Camera, Utensils, Books",Poor,200,55000,3
+Yes,"Furniture, Books",Good,800,105000,0
+No,"Accessories, Smartwatch",Fair,300,48000,2
+Yes,"Books, Laptop, Skincare",Excellent,1200,140000,1
+Yes,"Smartphone, Blender, Books",Good,900,92000,2
+No,"Clothing, Perfume, Books",Poor,250,42000,3
+Yes,"Headphones, Books",Excellent,1000,110000,1
+Yes,"Cookware, Shoes, Books",Good,700,88000,2
+Yes,"Books, Skincare, Tablet",Good,450,80000,1
+No,"Handbags, Laptop, Books",Fair,250,47000,3
+No,"Makeup, Books, Clothing",Poor,400,52000,1
+Yes,"Smart Home, Appliances, Books",Excellent,1100,125000,0
+Yes,"Clothing, Haircare, Books",Good,600,97000,2
+Yes,"Laptop, Furniture, Books",Excellent,900,102000,1
+No,"Accessories, Books",Fair,180,45000,2
+Yes,"Books, Smartphone, Headphones",Good,550,70000,1
+Yes,"Cookware, Fashion, Laptop",Excellent,950,80000,0
+No,"Perfume, Jewelry, Books",Fair,300,48000,3
+Yes,"Smartwatch, Shoes, Books",Good,700,92000,2
+Yes,"Appliances, Clothing, Tablet",Excellent,1200,110000,1
+No,"Furniture, Makeup, Books",Poor,200,42000,2
+Yes,"Phone, Laptop, Smart Home",Good,800,100000,1
+Yes,"Headphones, Books, Skincare",Excellent,1000,130000,0
+No,"Fashion, Perfume, Books",Fair,250,50000,2
+Yes,"Smartphone, Jewelry, Cookware",Good,600,85000,3
+Yes,"Books, Accessories, Laptop",Excellent,900,92000,2
+No,"Camera, Clothing, Books",Poor,150,55000,1
+Yes,"Smart Home, Shoes, Books",Good,700,88000,0
+Yes,"Books, Makeup, Smartphone",Good,500,75000,2
+No,"Furniture, Perfume, Books",Fair,300,45000,1
+Yes,"Smartwatch, Clothing, Tablet",Excellent,700,100000,0
+Yes,"Laptop, Cookware, Books",Good,800,90000,4
+No,"Handbags, Jewelry, Skincare",Fair,400,50000,2
+Yes,"Books, Accessories, Tablet",Excellent,900,120000,1
+Yes,"Smartphone, Shoes, Headphones",Good,600,85000,3
+No,"Fashion, Furniture, Books",Poor,150,60000,1
+No,"Makeup, Jewelry, Headphones",Fair,200,40000,2
+Yes,"Smart Home, Appliances, Books",Good,750,110000,0
+Yes,"Shoes, Makeup, Smartwatch",Excellent,1000,130000,1
+Yes,"Books, Clothing, Haircare",Good,500,95000,2
+No,"Camera, Utensils, Books",Poor,200,55000,3
+Yes,"Furniture, Books",Good,800,105000,0
+No,"Accessories, Smartwatch",Fair,300,48000,2
+Yes,"Books, Laptop, Skincare",Excellent,1200,140000,1
+Yes,"Smartphone, Blender, Books",Good,900,92000,2
+No,"Clothing, Perfume, Books",Poor,250,42000,3
+Yes,"Headphones, Books",Excellent,1000,110000,1
+Yes,"Cookware, Shoes, Books",Good,700,88000,2
+Yes,"Books, Skincare, Tablet",Good,450,80000,1
+No,"Handbags, Laptop, Books",Fair,250,47000,3
+No,"Makeup, Books, Clothing",Poor,400,52000,1
+Yes,"Smart Home, Appliances, Books",Good,750,110000,0
+Yes,"Shoes, Makeup, Smartwatch",Excellent,1000,130000,1
